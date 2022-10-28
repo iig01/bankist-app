@@ -1,9 +1,9 @@
 # bankist-app
 
 In order to test this application please use login and password given below:
-Login: Test1
+Login: ig
 Password: 1111
-Login: Test2
+Login: Tt
 Password: 2222
-Login: Test3
+Login: Tt
 Password: 3333
